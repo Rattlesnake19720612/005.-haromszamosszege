@@ -1,0 +1,6 @@
+C:\Users\gratt\source\repos\005. haromszamosszege\005. haromszamosszege\bin\Debug\_005.haromszamosszege.exe.config
+C:\Users\gratt\source\repos\005. haromszamosszege\005. haromszamosszege\bin\Debug\_005.haromszamosszege.exe
+C:\Users\gratt\source\repos\005. haromszamosszege\005. haromszamosszege\bin\Debug\_005.haromszamosszege.pdb
+C:\Users\gratt\source\repos\005. haromszamosszege\005. haromszamosszege\obj\Debug\005. haromszamosszege.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\005. haromszamosszege\005. haromszamosszege\obj\Debug\_005.haromszamosszege.exe
+C:\Users\gratt\source\repos\005. haromszamosszege\005. haromszamosszege\obj\Debug\_005.haromszamosszege.pdb
