@@ -23,3 +23,19 @@ namespace _005.haromszamosszege
         }
     }
 }
+
+/*Ez a kód a következőket csinálja soronként:
+
+Az System névtér importálása.
+Egy saját névtér (namespace) definiálása, amelyben a kódunk található.
+Egy Program osztály definiálása.
+Az osztályon belül egy Main függvény definiálása, amely a program belépési pontja.
+Kiírja a képernyőre a "Kérek egy számot!" üzenetet.
+Beolvas egy egész számot a felhasználótól, majd eltárolja az értékét a szam1 változóban.
+Kiírja a képernyőre a "Kérek még egy számot!" üzenetet.
+Beolvas egy másik egész számot a felhasználótól, majd eltárolja az értékét a szam2 változóban.
+Kiírja a képernyőre a "Kérek egy harmadik számot!" üzenetet.
+Beolvas egy harmadik egész számot a felhasználótól, majd eltárolja az értékét a szam3 változóban.
+Az osszeg változóba eltárolja a három szám összegét.
+Kiírja a képernyőre az összeget, egy szöveggel kiegészítve.
+Várakozás a felhasználó billentyűleütésére a továbblépéshez.*/
